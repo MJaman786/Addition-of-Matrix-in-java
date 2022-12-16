@@ -68,29 +68,29 @@ public class Matrix {
 
 // output:
 // 
-//Enter number of colums:
-//2
-//Enter numbers of rows
-//2
-//Enter elements of Matrix 1st
-//1
-//1
+// Enter number of colums:
+// 2
+// Enter numbers of rows
+// 2
+// Enter elements of Matrix 1st
+// 1
+// 1
 //
-//1
-//1
+// 1
+// 1
 //
-//1	1	
-//1	1	
-//Enter elements of Matrix 2nd
-//1
-//1
+// 1	1	
+// 1	1	
+// Enter elements of Matrix 2nd
+// 1
+// 1
 //
-//1
-//1
+// 1
+// 1
 //
-//1	1	
-//1	1	
-//Addition of matrix is
-//2	2	
-//2	2	
-//        
+// 1	1	
+// 1	1	
+// Addition of matrix is
+// 2	2	
+// 2	2	
+//         
